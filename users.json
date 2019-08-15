@@ -1,0 +1,75 @@
+{
+  "success": true,
+  "message": "The request was successfully completed",
+  "data": [
+    {
+      "name": "Roman",
+      "emails": [
+        "email@gmail.com"
+      ],
+      "photos": [
+        "http://site/photo/234234.jpg",
+        "http://site/photo/534543.jpg"
+      ],
+      "placesOfWork": [
+
+      ],
+      "interests": [
+        "sports",
+        "movies",
+        "tourism"
+      ]
+    },
+    {
+      "name": "Olya",
+      "emails": [
+        "olya3423@gmail.com",
+        "olya112@outlook.com"
+      ],
+      "photos": [
+        "http://site/photo/5ssg43.jpg",
+        "http://site/photo/sdfg43.jpg",
+        "http://site/photo/gsg43.jpg",
+        "http://site/photo/gss43.jpg"
+      ],
+      "placesOfWork": [
+        "Teacher"
+      ],
+      "interests": [
+        "movies",
+        "tourism"
+      ]
+    },
+    {
+      "name": "Viktor",
+      "emails": [
+      ],
+      "photos": [
+        "http://site/photo/5ssgds43.jpg"
+      ],
+      "placesOfWork": [
+        "Police officer",
+        "Postal worker"
+      ],
+      "interests": [
+      ]
+    },
+    {
+      "name": "Serhiy",
+      "emails": [
+        "Serhiy2323@gmail.com"
+      ],
+      "photos": [
+      ],
+      "placesOfWork": [
+        "Doctor"
+      ],
+      "interests": [
+        "serials",
+        "movies",
+        "tourism",
+        "fishing"
+      ]
+    }
+  ]
+}
